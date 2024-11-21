@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I am a passionate **DevOps Engineer** and **Site R
 ### 📫 How to Reach Me
 Feel free to reach out to me if you want to discuss DevOps, automation, cloud technologies, or just want to connect. You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/aditya-kumar-046828142)
+- [Blogs](https://ak2019cs.gitbook.io/aditya-kumar)
 
 
 Let's automate the future! 🚀
